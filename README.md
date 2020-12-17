@@ -1,0 +1,3 @@
+# BlurringApp
+it will blur the specific position of an image when u click it....
+you can put ur image to try it
